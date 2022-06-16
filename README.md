@@ -12,15 +12,16 @@
 - 💻 With 4 years' Software Engineering.
 - ⛵ Want to participate in open source.
 - 😄 Pronouns: Happy.
-<a href="mailto:albert7king@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Albertchamberlain/Albertchamberlain/blob/main/icons/gmail.png" />
-</a>
+
+
 <p align="center">
   👑   Some GitHub statistical reports:
 </p>
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertchamberlain&&hide=javascript,html,css,Jupyter Notebook,C&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Albertchamberlain&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertchamberlain&hide=javascript,html,css,Jupyter Notebook,C&theme=default&line_height=27&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Albertchamberlain&show_icons=true&count_private=true&include_all_commits=true&line_height=21"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Albertchamberlain&hide_border=true" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Albertchamberlain&column=7" alt="Albertchamberlain's Github Trophy" />
 
 </p>
@@ -29,15 +30,24 @@
   
 <hr>
 <p align="center">
-  <i>A good beginning is half done!</i>
+ 
 
+<!-- <div align="center">
+
+[![Amos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amos&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+</div> -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"></div>
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Albertchamberlain.Albertchamberlain" alt="visitor badge"/>       
 </p>
-
 </p>
 
----
+<p align="center">
+<a href="mailto:albert7king@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Albertchamberlain/Albertchamberlain/blob/main/icons/gmail.png" />
+</a>
+</p>
+
 <!-- 
 
 Visitor Count
