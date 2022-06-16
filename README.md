@@ -5,3 +5,5 @@
 - 📫 How to reach me:  👈email📫
 - 😄 Pronouns: Amos
 
+
+![Visitor Count](https://profile-counter.glitch.me/Albertchamberlain/count.svg)
