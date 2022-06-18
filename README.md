@@ -1,5 +1,4 @@
 ### Hi there 👋
-<!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Yo%2C%20Amos祝您今天开心!!%22);&center=true&size=19">
