@@ -37,8 +37,3 @@
 <p align="center">
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"></div>
 </p>
-
-<!-- 
-
-Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Albertchamberlain/count.svg) -->
