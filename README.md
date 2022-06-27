@@ -1,16 +1,16 @@
 ### Hi there 👋
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Yo%2C%20Amos祝您今天开心!!%22);&center=true&size=19">
   </a>
-</h1>
+</h1> -->
 
-![](https://github.com/Albertchamberlain/Albertchamberlain/blob/main/icons/header_white_.png)
+<!-- ![](https://github.com/Albertchamberlain/Albertchamberlain/blob/main/icons/header_white_.png)
 - 🔭 I’m interested in computer science and astronomy.
 - 🌱 Currently learning Linux, Go, Distributed Systems.
 - 💻 With 4 years' Software Engineering.
 - ⛵ Want to participate in open source.
-- 😄 Pronouns: Happy.
+- 😄 Pronouns: Happy. -->
 
 <p align="left">
 <a href="mailto:albert7king@gmail.com">
