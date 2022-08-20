@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertchamberlain&hide=javascript,html,css,Jupyter Notebook,C&theme=default&line_height=27&layout=compact"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertchamberlain&hide=javascript,html,css,Jupyter Notebook,C&theme=default&line_height=27&layout=compact"/> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Albertchamberlain&show_icons=true&count_private=true&include_all_commits=true&line_height=21"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Albertchamberlain&hide_border=true&count_private=true" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Albertchamberlain&column=7" alt="Albertchamberlain's Github Trophy" />
