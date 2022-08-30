@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  👑   Some GitHub statistical reports:
+  👑 
 </p>
 
 
